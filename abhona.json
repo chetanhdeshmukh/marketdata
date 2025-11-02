@@ -1,6 +1,6 @@
 [
   {
-    "date": "2025-11-02",
+    "date": "2025-11-04",
     "red_onion": "0",
     "red_onion_no_1": "1500-1800",
     "red_onion_no_2": "1200-1500",
@@ -17,7 +17,7 @@
     "nilav_video": "https://example.com/videos/nilav_update_2025_11_01.mp4"
   },
   {
-    "date": "2025-11-01",
+    "date": "2025-11-03",
     "red_onion": "1",
     "red_onion_no_1": "1500-1800",
     "red_onion_no_2": "1200-1500",
@@ -51,7 +51,7 @@
     "nilav_video": "https://example.com/videos/nilav_update_2025_11_02.mp4"
   },
   {
-    "date": "2025-11-03",
+    "date": "2025-11-01",
     "red_onion": "1",
     "red_onion_no_1": "1550-1750",
     "red_onion_no_2": "1250-1450",
