@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2025-11-01",
+    "red_onion_no_1": "1500-1800",
+    "red_onion_no_2": "1200-1500",
+    "red_onion_no_3": "900-1100",
+    "red_onion_khad": "800-1000",
+    "red_onion_golti": "600-900",
+    "onion_no_1": "1400-1600",
+    "onion_no_2": "1100-1300",
+    "onion_no_3": "800-1000",
+    "onion_khad": "700-900",
+    "onion_golti": "500-800",
+    "video": "https://example.com/videos/market_update_2025_11_01.mp4",
+    "nilav_video": "https://example.com/videos/nilav_update_2025_11_01.mp4"
+  },
+  {
+    "date": "2025-11-02",
+    "red_onion_no_1": "1600-1900",
+    "red_onion_no_2": "1300-1600",
+    "red_onion_no_3": "950-1150",
+    "red_onion_khad": "850-1050",
+    "red_onion_golti": "650-950",
+    "onion_no_1": "1500-1700",
+    "onion_no_2": "1150-1350",
+    "onion_no_3": "850-1050",
+    "onion_khad": "750-950",
+    "onion_golti": "550-850",
+    "video": "https://example.com/videos/market_update_2025_11_02.mp4",
+    "nilav_video": "https://example.com/videos/nilav_update_2025_11_02.mp4"
+  },
+  {
+    "date": "2025-11-03",
+    "red_onion_no_1": "1550-1750",
+    "red_onion_no_2": "1250-1450",
+    "red_onion_no_3": "900-1100",
+    "red_onion_khad": "800-950",
+    "red_onion_golti": "600-850",
+    "onion_no_1": "1450-1650",
+    "onion_no_2": "1100-1300",
+    "onion_no_3": "850-1000",
+    "onion_khad": "700-900",
+    "onion_golti": "500-750",
+    "video": "https://example.com/videos/market_update_2025_11_03.mp4",
+    "nilav_video": "https://example.com/videos/nilav_update_2025_11_03.mp4"
+  }
+]
